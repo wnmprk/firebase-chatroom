@@ -1,4 +1,4 @@
 # firebase-chatroom
 testing and styling firebase chatroom demo
 
-![Image of App](http://i.imgur.com/tBwoT6i.png)
+![Image of App](https://i.imgur.com/vmUAFQl.png)
